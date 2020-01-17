@@ -474,6 +474,26 @@ footer {
   margin-left: 300px;
   padding: 15px;
 }
+
+.project-info-v2 {
+  padding-left: 520px;
+  padding-right: 20px;
+}
+
+.project-info-v2 h3 {
+  padding-top: 50px;
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #2c3e50;
+  margin: 0 0 15px 0;
+}
+
+.project-info-v2 p {
+  color: #212121;
+  margin: 0 0 15px 0;
+  font-size: 0.9em;
+}
+
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
@@ -485,6 +505,7 @@ footer {
   margin: 0 0 15px 0;
   font-size: 0.9em;
 }
+
 .no-image .project-info {
   position: relative;
   margin: 0;
@@ -574,6 +595,15 @@ footer {
 
 #beerHeroGif {
   width: 300px;
+  height: auto;
+}
+
+#bufferedProject {
+  margin-left: 40px;
+}
+
+#choreChampPic {
+  width: 500px;
   height: auto;
 }
 #contact-form button {
