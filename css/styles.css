@@ -606,6 +606,11 @@ footer {
   width: 500px;
   height: auto;
 }
+
+#recipeBookPic {
+  width: 500px;
+  height: auto;
+}
 #contact-form button {
   display: block;
   width: 100%;
